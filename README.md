@@ -4,7 +4,6 @@
 # Control Flow Graph
 ![graph](https://user-images.githubusercontent.com/100201351/173931708-feb6132a-e4b0-4ae6-a01d-b794cb78d160.png)
 
-https://github.com/sukovamia/SI_2022_lab2_155020/blob/master/SILab2.java
 
 # Цикломатска комплексност
 
